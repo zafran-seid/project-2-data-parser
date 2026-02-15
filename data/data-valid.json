@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "role": "customer",
+      "createdAt": "2024-01-01"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "userId": "u1",
+      "amount": 100,
+      "status": "Paid",
+      "createdAt": "2024-01-02"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "",
+      "email": "wrongemail",
+      "role": "customer",
+      "createdAt": "2024-01-01"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "userId": "u999",
+      "amount": -50,
+      "status": "Unknown",
+      "createdAt": "2024-01-02"
+    }
+  ]
+}
+
+
